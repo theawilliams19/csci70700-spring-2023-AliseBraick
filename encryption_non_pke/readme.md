@@ -2,7 +2,7 @@
 
 ### I used the  brute force method to try all 25 shifts using a for loop
 
-###  Code: https://replit.com/join/aotgvkmpxw-alisebraick)
+###  Code: https://replit.com/join/aotgvkmpxw-alisebraick
 
 # Encryption Part 2
 
