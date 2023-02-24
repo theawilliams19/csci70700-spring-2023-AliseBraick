@@ -8,5 +8,5 @@
 
 ### I used the substituation method using random. Everytime we run the program we get a differnt random key. I also import the string module to count for punctuations and upper and lower case letter. Space was added as a string. 
 
-### code: https://replit.com/join/kekhmmtkfb-alisebraick
+### code:https://replit.com/join/kekhmmtkfb-alisebraick
 
