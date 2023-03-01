@@ -9,9 +9,10 @@ This is the link to my website that was created last semester. The new Features 
 
 # Flask_2
 - I created a log in page. Username is: Alise and password is: Hello
-_ if credentiuals are correct, the user will be directed to see the secret message through the route "/dashboard. I created an html (welcome.html) page to display the secret and the link to the home page
-- if credentials are not correct, the login page will be rendered again. I was not able to figure out how to display " Incorrect information" and redirect thge user aggain to login. I thought I can duplicate the login.html again andf display the message with the login. However, i think this is not an effiecient way. 
-- I added the # of visists to the home page
-### My Code: https://replit.com/@AliseBraick/flask2?v=1
-### My Site: https://flask2.alisebraick.repl.co
+_ if credentiuals are correct, the user will be directed to see the secret message through the route "/dashboard. I created an html (welcome.html) page to display the secret and the link to the home page and link to logout
+- if credentials are not correct, the login page will be rendered again with a message " Incorrect credentials" and redirect the user again to login. 
+- I added the # of visists to the home page and to the picker page
+### My Code: https://replit.com/@AliseBraick/flask2loginlogout?v=1
+### My Site: https://flask2LoginLogout.alisebraick.repl.co
+## I am not sure how to check if the session got deleted when the user log out. I pop out the session, but i still see the cookies when i log out. Please provide feedback about this feature. Thank you in advance
 
