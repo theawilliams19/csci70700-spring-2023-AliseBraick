@@ -8,9 +8,9 @@ Coding in Racket might be easier to understand since variables behave similarly 
  Python might be more intuitive to students in terms of syntax. While Racket is more intuitive in terms of CS concepts. How far can we program with Racket? Do they have objects and classes, and how do we use them? What are some real-world applications of Racket?
 
 ## is-Divisible and ack function
-'''
-#lang racket
 
+#lang racket
+'''
 (define (is-divisible n m)
  (if (and (not (= m 0)) (= 0 (modulo n m)))
                          #t #f))
