@@ -7,7 +7,7 @@ Coding in Racket might be easier to understand since variables behave similarly 
  However, students might get caught up with the syntax and multiple parentheses.
  Python might be more intuitive to students in terms of syntax. While Racket is more intuitive in terms of CS concepts. How far can we program with Racket? Do they have objects and classes, and how do we use them? What are some real-world applications of Racket?
 
-## is-Divisible and ack function
+## is-Divisible ,  ack function, is a triangle
 ```
 
 #lang racket
