@@ -33,6 +33,17 @@ Coding in Racket might be easier to understand since variables behave similarly 
 (ack 1 2)
 (ack 2 3)
 (ack 3 4)
+
+; triangle inequality
+
+(define (is-triangle a b c)
+  (if (or (> a (+ b c)) (> b (+ a c)) (> c (+ a b))) "Yes triangle" " Not a triangle")
+  ) ; end of function
+
+; test
+(is-triangle 2 3 3)
+(is-triangle 3 3 9)
+
 ```
 
 
