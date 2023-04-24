@@ -1,4 +1,4 @@
-### Why is PKE used over general encrypion?
+# Why is PKE used over general encrypion?
 
 PKE is more secure than symmetric encryptions. It uses a private key that stays secret since it can be stored  on an isolated computer with no network connections. As a result, it can not be intercepted by the hackers. Additionally, it is very hard to come up with factors of a huge size of  semi-prime numbers (2048 bit RSA Keys is recommended standard since 2015)
 
